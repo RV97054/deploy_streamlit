@@ -1,4 +1,4 @@
-firebae-admin
+firebase-admin
 streamlit
 altair
 pandas
